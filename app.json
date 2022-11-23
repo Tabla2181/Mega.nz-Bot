@@ -15,7 +15,7 @@
             "description": "Your APP_ID from my.telegram.org",
             "required": true
         },
-        "API_HASH": {c2cbb2f07c44fe466076fbe65e3c00cc
+        "API_HASH": { c2cbb2f07c44fe466076fbe65e3c00cc
             "description": "Your API_HASH from my.telegram.org",
             "required": true
         },
