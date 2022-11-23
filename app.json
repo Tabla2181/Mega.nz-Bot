@@ -11,7 +11,7 @@
     "repository": "https://github.com/Itz-fork/Mega.nz-Bot",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
-        "APP_ID": {15558101
+        "APP_ID": {"15558101"
             "description": "Your APP_ID from my.telegram.org",
             "required": true
         },
