@@ -11,15 +11,15 @@
     "repository": "https://github.com/Itz-fork/Mega.nz-Bot",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
-        "APP_ID": {"15558101"
+        "APP_ID": {15558101
             "description": "Your APP_ID from my.telegram.org",
             "required": true
         },
-        "API_HASH": {"c2cbb2f07c44fe466076fbe65e3c00cc"
+        "API_HASH": {c2cbb2f07c44fe466076fbe65e3c00cc
             "description": "Your API_HASH from my.telegram.org",
             "required": true
         },
-        "AUTH_USERS": {"756078977"
+        "AUTH_USERS": {756078977
             "description": "Telegram Ids Of Auth Users, Only they can use this bot. Separate them by space!",
             "required": true
         },
